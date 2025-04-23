@@ -1,0 +1,4 @@
+cd Desktop
+mkdir curso-terapias
+cd curso-terapias
+notepad index.html
